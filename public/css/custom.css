@@ -1,0 +1,34 @@
+/* Custom CSS Styles */
+/* Example: Change background color for headers */
+h1, h2, h3 {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Example: Style buttons */
+.btn-primary {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+}
+
+/* Example: Style tables */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+/* Add more custom styles as needed */
+
